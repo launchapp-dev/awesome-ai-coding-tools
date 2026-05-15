@@ -84,6 +84,7 @@ Agents that take a goal and execute multi-step work — planning, editing, testi
 Lower-level CLI tooling that pairs with agents or runs solo.
 
 - [Animus (ao-cli)](https://github.com/launchapp-dev/animus-cli) 🟢 ⭐ — Autonomous agent orchestrator. YAML workflows, daemon scheduling, multi-model routing across Claude/Gemini/GPT.
+- [Agent FM](https://github.com/agentfm-ai/agent-fm) 🟢 🆓 — Local macOS companion for listening to Claude Code and Codex sessions, with Global Mix, blocker alerts, and BYOK narration.
 - [llm](https://github.com/simonw/llm) 🟢 — Simon Willison's CLI for talking to any LLM. Plugin ecosystem.
 - [mods](https://github.com/charmbracelet/mods) 🟢 — Charm's AI for the command line. Pipes-friendly.
 - [shell-gpt (sgpt)](https://github.com/TheR1D/shell_gpt) 🟢 — Shell command generation and chat.
