@@ -180,10 +180,11 @@ Frontier and open-weight models with strong code performance.
 
 ## Prompt & Context Engineering
 
-- [Repomix](https://github.com/yamadashy/repomix) 🟢 — Pack a repo into a single file for LLM context.
-- [files-to-prompt](https://github.com/simonw/files-to-prompt) 🟢 — CLI to bundle files into a prompt.
-- [Cursor Rules](https://docs.cursor.com/context/rules) — Cursor's rules format (also adopted by other tools).
 - [CLAUDE.md convention](https://docs.claude.com/en/docs/claude-code/memory) — Project-level instructions for Claude Code.
+- [Cursor Rules](https://docs.cursor.com/context/rules) — Cursor's rules format (also adopted by other tools).
+- [Everything OpenAI Codex](https://github.com/mturac/everything-openai-codex) 🟢 — Codex workflow system with agents, skills, hooks, install profiles, memory patterns, and validation checks.
+- [files-to-prompt](https://github.com/simonw/files-to-prompt) 🟢 — CLI to bundle files into a prompt.
+- [Repomix](https://github.com/yamadashy/repomix) 🟢 — Pack a repo into a single file for LLM context.
 
 ## Learning Resources
 
