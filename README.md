@@ -152,6 +152,7 @@ For when you want to own the stack.
 - [TabbyML](https://github.com/TabbyML/tabby) 🟢 🏠 — Self-hosted Copilot alternative.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) 🟢 🏠 — Self-host an autonomous SWE agent.
 - [LiteLLM](https://github.com/BerriAI/litellm) 🟢 🏠 — Unified gateway for 100+ LLM providers.
+- [Tuning Engines](https://github.com/cerebrixos-org/tuningengines) 🟢 🏠 — Control plane for coding-agent model, MCP, skill, policy, approval, trace, and cost flows.
 - [Ollama](https://github.com/ollama/ollama) 🟢 🏠 — Run LLMs locally.
 - [LM Studio](https://lmstudio.ai/) 🆓 🏠 — Local LLM desktop UI.
 
