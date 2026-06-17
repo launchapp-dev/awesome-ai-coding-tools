@@ -141,6 +141,7 @@ Prompt-to-app tools — for prototyping or full apps.
 - [Bolt.new](https://bolt.new/) 🆓 💰 — StackBlitz's full-stack web app builder.
 - [Lovable](https://lovable.dev/) 💰 🆓 — End-to-end app generator with deploy.
 - [Replit Agent](https://replit.com/agent) 💰 — In-browser app generation + hosting.
+- [Roblox GUI Maker](https://robloxguimaker.dev/) 🆓 — Browser-based Roblox Studio UI generator that turns prompts into GUI layout ideas and Lua starter code.
 - [Tempo](https://www.tempo.new/) 💰 — Visual + AI React app builder.
 - [a0.dev](https://a0.dev/) — React Native app generator.
 
