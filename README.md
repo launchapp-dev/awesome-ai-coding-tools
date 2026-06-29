@@ -194,6 +194,7 @@ Frontier and open-weight models with strong code performance.
 ## Related Lists
 
 - [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai) — Long-running list maintained by Sourcegraph.
+- [AI Coding Tools Guide](https://ai-coding-tools-guide.vercel.app/cursor-alternatives/) — Workflow-based comparisons for Cursor alternatives, Claude Code, MCP, and AI coding tools.
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) — Developer-tool focused.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — MCP servers specifically.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) — Broader LLM landscape.
