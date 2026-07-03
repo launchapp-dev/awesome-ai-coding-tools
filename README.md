@@ -190,6 +190,7 @@ Frontier and open-weight models with strong code performance.
 - [Anthropic's Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) — Patterns for production agents.
 - [SWE-bench](https://www.swebench.com/) — Benchmark for resolving real GitHub issues.
 - [Aider Leaderboards](https://aider.chat/docs/leaderboards/) — Real-world coding benchmark by model.
+- [GENZ TECH AI Coding Leaderboard](https://genztech.blog/ai-coding-leaderboard/) — Live ranking of AI coding models by confirmed SWE-bench Verified/Pro scores and price; only scores verified against primary sources are shown.
 
 ## Related Lists
 
