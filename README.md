@@ -112,6 +112,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 - [Bito](https://bito.ai/) 💰 🆓 — AI code review & chat.
 - [Ellipsis](https://www.ellipsis.dev/) 💰 — Async AI reviewer that fixes its own comments.
 - [Diamond by Graphite](https://graphite.dev/diamond) 💰 — PR review built into Graphite's stack.
+- [Kodus](https://kodus.io/) 🟢 🆓 💰 🏠 — Open-source AI code review platform that reviews pull requests with repository context, custom rules, BYOK, and self-hosting support.
 
 ## Testing & QA
 
