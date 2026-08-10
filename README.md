@@ -109,6 +109,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 - [CodeRabbit](https://www.coderabbit.ai/) 💰 🆓 — Line-by-line PR review. Most popular in this category.
 - [Qodo (Codium)](https://www.qodo.ai/) 💰 🆓 — PR-Agent + test generation. Open-source PR-Agent available.
 - [Greptile](https://www.greptile.com/) 💰 — Codebase-aware PR review.
+- [heygrc](https://heygrc.com) - GitHub App for compliance-focused PR review (ISO 27001, SOC 2, GDPR, EU AI Act, and more). Cites the control clause and says what to fix. Public repositories always free. By ISMS Copilot.
 - [Bito](https://bito.ai/) 💰 🆓 — AI code review & chat.
 - [Ellipsis](https://www.ellipsis.dev/) 💰 — Async AI reviewer that fixes its own comments.
 - [Diamond by Graphite](https://graphite.dev/diamond) 💰 — PR review built into Graphite's stack.
