@@ -155,6 +155,7 @@ For when you want to own the stack.
 - [LiteLLM](https://github.com/BerriAI/litellm) 🟢 🏠 — Unified gateway for 100+ LLM providers.
 - [Ollama](https://github.com/ollama/ollama) 🟢 🏠 — Run LLMs locally.
 - [LM Studio](https://lmstudio.ai/) 🆓 🏠 — Local LLM desktop UI.
+- [Sillage](https://github.com/MarlBurroW/sillage) 🟢 🏠 - Mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine; sessions that outlive the client, full-text search across conversations, an IDE panel and an installable PWA. Single Docker container.
 
 ## Model Context Protocol (MCP)
 
