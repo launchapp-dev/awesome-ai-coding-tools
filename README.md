@@ -99,6 +99,7 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 - [AutoGen](https://github.com/microsoft/autogen) 🟢 — Microsoft's conversational multi-agent framework.
 - [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) 🟢 — Build production agents on Claude.
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) 🟢 — OpenAI's agent framework with handoffs and tracing.
+- [Orkas](https://github.com/Orkas-AI/Orkas) 🟢 🆓 🏠 — Open-source, local-first desktop AI workforce whose Commander coordinates specialist and external coding agents through one chat.
 - [smolagents](https://github.com/huggingface/smolagents) 🟢 — Hugging Face's minimal code-writing agents.
 
 ## Code Review & PR Automation
