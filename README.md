@@ -72,6 +72,7 @@ Agents that take a goal and execute multi-step work — planning, editing, testi
 - [Aider](https://aider.chat/) 🟢 🆓 ⭐ — Pair-programs from your terminal with git-aware diffs. Model-agnostic.
 - [OpenAI Codex CLI](https://github.com/openai/codex) 🟢 — Lightweight terminal agent from OpenAI.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) 🟢 — Google's agent for the terminal.
+- [Harness Desktop](https://github.com/baiyuscc13724-max/deepseek-harness-desktop) 🟢 — Windows client for the official DeepSeek Harness coding workbench with themes, provider and subagent model routing, and an in-app plugin and Skills marketplace.
 - [Devin](https://devin.ai/) 💰 — Cognition's autonomous SWE. Browser, shell, editor in one sandbox.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) 🟢 🏠 — Open-source autonomous agent platform (formerly OpenDevin).
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) 🟢 — Princeton's research agent. Strong on SWE-bench.
