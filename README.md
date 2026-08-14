@@ -129,6 +129,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 - [Greptile](https://www.greptile.com/) 💰 — API for codebase Q&A.
 - [Bloop](https://github.com/BloopAI/bloop) 🟢 — Open-source code search with semantic understanding.
 - [Aider Repo Map](https://aider.chat/docs/repomap.html) 🟢 — Repo-map approach for giving LLMs codebase context.
+- [Vibe Coding Profiler](https://bolokonon.vercel.app) 🆓 — Profiles git history to show how a developer's coding rhythm, commit habits, and craftsmanship patterns carry over or change when working with AI coding agents.
 
 ## Documentation Generation
 
