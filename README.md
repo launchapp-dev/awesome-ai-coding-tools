@@ -117,6 +117,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 
 ## Testing & QA
 
+- [Agent QA](https://github.com/vostride/agent-qa) 🆓 🏠 — The self-improving QA agent for software teams, with natural-language web/mobile tests, persistent test memory, and self-healing flows.
 - [Qodo Cover](https://www.qodo.ai/products/qodo-cover/) 🟢 — Auto-generates regression tests with coverage targets.
 - [Checksum](https://checksum.ai/) 💰 — AI-generated end-to-end tests from real user behavior.
 - [Octomind](https://octomind.dev/) 💰 — AI E2E test generation and maintenance.
