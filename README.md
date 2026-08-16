@@ -124,6 +124,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 - [Momentic](https://momentic.ai/) 💰 — Low-code AI testing platform.
 
 ## Code Search & Codebase Intelligence
+- [Canopy](https://canopy.8starlabs.com/) 💰 🆓 - Living architecture maps for software teams, with GitHub import, service dependencies, ownership and cost context, and AI-ready exports for coding agents.
 
 - [Sourcegraph](https://sourcegraph.com/) 💰 🆓 ⭐ — Code search + Cody AI across massive codebases.
 - [Greptile](https://www.greptile.com/) 💰 — API for codebase Q&A.
