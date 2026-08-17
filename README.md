@@ -89,6 +89,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [mods](https://github.com/charmbracelet/mods) 🟢 — Charm's AI for the command line. Pipes-friendly.
 - [shell-gpt (sgpt)](https://github.com/TheR1D/shell_gpt) 🟢 — Shell command generation and chat.
 - [aichat](https://github.com/sigoden/aichat) 🟢 — All-in-one CLI chat & agent in Rust.
+- [Kolega Code](https://github.com/kolega-ai/kolega-code) 🟢 — Open-source terminal coding agent where the model writes its own multi-agent workflows (Gigacode), provider-agnostic with MCP support.
 
 ## Agent Orchestrators & Multi-Agent
 
