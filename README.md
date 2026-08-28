@@ -87,6 +87,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [Animus (ao-cli)](https://github.com/launchapp-dev/animus-cli) 🟢 ⭐ — Autonomous agent orchestrator. YAML workflows, daemon scheduling, multi-model routing across Claude/Gemini/GPT.
 - [llm](https://github.com/simonw/llm) 🟢 — Simon Willison's CLI for talking to any LLM. Plugin ecosystem.
 - [mods](https://github.com/charmbracelet/mods) 🟢 — Charm's AI for the command line. Pipes-friendly.
+- [SandBase CLI](https://github.com/sandbaseai/cli) 🟢 — Open-source CLI and local MCP bridge for coding-agent workflows across 2,000+ AI models and APIs.
 - [shell-gpt (sgpt)](https://github.com/TheR1D/shell_gpt) 🟢 — Shell command generation and chat.
 - [aichat](https://github.com/sigoden/aichat) 🟢 — All-in-one CLI chat & agent in Rust.
 
