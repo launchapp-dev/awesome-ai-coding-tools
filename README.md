@@ -166,6 +166,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 - [Official MCP servers](https://github.com/modelcontextprotocol/servers) 🟢 — Reference implementations (filesystem, git, GitHub, Slack, etc).
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated MCP server directory.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
+- [SandBase CLI](https://github.com/sandbaseai/cli) 🟢 🆓 — Local MCP bridge CLI for coding clients to discover and run 2,000+ AI models and APIs.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
 
 ## DevOps & CI/CD
