@@ -167,6 +167,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated MCP server directory.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) 🟢 🆓 🏠 — Self-hosted runtime for coding-agent sessions with sandboxed execution, a local stdio MCP bridge, approvals, artifacts, audit, and replay.
 
 ## DevOps & CI/CD
 
