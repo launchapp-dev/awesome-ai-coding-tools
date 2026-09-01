@@ -95,6 +95,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 Frameworks for running multiple agents, coordinating workflows, or building your own coding agent.
 
 - [Animus](https://github.com/launchapp-dev/animus-cli) 🟢 ⭐ — Production orchestrator: define an engineering team in YAML, dispatch tasks across isolated worktrees, route by complexity.
+- [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) 🟢 — Per-user Codex skill for bounded work graphs, revisioned local state, and reconciliation before retry, using optional specialist agents or the same node lifecycle inline.
 - [LangGraph](https://github.com/langchain-ai/langgraph) 🟢 — Stateful multi-agent graphs from LangChain.
 - [CrewAI](https://github.com/crewAIInc/crewAI) 🟢 — Role-based multi-agent framework.
 - [AutoGen](https://github.com/microsoft/autogen) 🟢 — Microsoft's conversational multi-agent framework.
