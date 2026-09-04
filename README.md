@@ -45,6 +45,7 @@ AI coding has gone from autocomplete to autonomous teams in two years. This list
 Full IDEs and forks built around AI as a first-class feature.
 
 - [Cursor](https://www.cursor.com/) ⭐ 💰 — AI-first VS Code fork. Multi-file edits, agent mode, codebase chat. Currently the category leader.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) 🟢 — Browser-side AI coding toolbar for live web app edits with context capture and approved diffs.
 - [Windsurf](https://windsurf.com/) 💰 — VS Code fork from Codeium with the "Cascade" agent. Strong long-running task support.
 - [Zed](https://zed.dev/) 🟢 🆓 — Rust-built editor with native AI assistant and multibuffer edits. Fast.
 - [Void](https://voideditor.com/) 🟢 — Open-source Cursor alternative. Bring your own model.
