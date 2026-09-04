@@ -183,6 +183,7 @@ Frontier and open-weight models with strong code performance.
 
 - **Closed:** [Claude Sonnet/Opus 4.x](https://www.anthropic.com/), [GPT-5 / o-series](https://openai.com/), [Gemini 2.5/3 Pro](https://ai.google.dev/)
 - **Open weights:** [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder), [DeepSeek-Coder-V3](https://github.com/deepseek-ai/DeepSeek-Coder), [Codestral](https://mistral.ai/news/codestral/), [StarCoder2](https://github.com/bigcode-project/starcoder2)
+- **Gateways:** [XiuRouter](https://router.xiu.ai/) 💰 — Hosted multi-provider API gateway; one endpoint for Claude, GPT and Gemini, with setup guides for Codex, Claude Code, Cursor, OpenCode and Cline.
 
 ## Prompt & Context Engineering
 
