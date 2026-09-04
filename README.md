@@ -98,6 +98,7 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) 🟢 — Per-user Codex skill for bounded work graphs, revisioned local state, and reconciliation before retry, using optional specialist agents or the same node lifecycle inline.
 - [AgentBridge](https://github.com/raysonmeng/agent-bridge) 🟢 🆓 — Local CLI that keeps Claude Code and Codex as live peers in one session for mid-turn review and quota-boundary handoff.
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) 🟢 🏠 — Apache-2.0 local-first environment for building portable coding-agent teams and routing them across supported hosts with MCP/A2A and verification gates.
+- [Superagent](https://github.com/pungme/superagent-desktop) 🟢 🏠 — MIT-licensed macOS desktop app that gives Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 - [LangGraph](https://github.com/langchain-ai/langgraph) 🟢 — Stateful multi-agent graphs from LangChain.
 - [CrewAI](https://github.com/crewAIInc/crewAI) 🟢 — Role-based multi-agent framework.
 - [AutoGen](https://github.com/microsoft/autogen) 🟢 — Microsoft's conversational multi-agent framework.
