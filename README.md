@@ -107,6 +107,7 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) 🟢 — OpenAI's agent framework with handoffs and tracing.
 - [Orkas](https://github.com/Orkas-AI/Orkas) 🟢 🆓 🏠 — Open-source, local-first desktop AI workforce whose Commander coordinates specialist and external coding agents through one chat.
 - [smolagents](https://github.com/huggingface/smolagents) 🟢 — Hugging Face's minimal code-writing agents.
+- [YYLO CLI](https://github.com/yylo-dev/yylo) 🟢 — Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and a merge queue owns risk-based review over receipt-backed runs.
 
 ## Code Review & PR Automation
 
