@@ -171,6 +171,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 - [MCP Specification](https://modelcontextprotocol.io/) — The spec.
 - [Official MCP servers](https://github.com/modelcontextprotocol/servers) 🟢 — Reference implementations (filesystem, git, GitHub, Slack, etc).
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated MCP server directory.
+- [ContextStream](https://contextstream.io) 🟢 — Shared project context for Cursor, Claude Code, Codex, and Grok over MCP (https://mcp.contextstream.io/mcp).
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
 
