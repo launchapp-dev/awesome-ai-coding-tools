@@ -87,6 +87,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [Animus (ao-cli)](https://github.com/launchapp-dev/animus-cli) 🟢 ⭐ — Autonomous agent orchestrator. YAML workflows, daemon scheduling, multi-model routing across Claude/Gemini/GPT.
 - [agent-watch](https://github.com/soul-sol/agent-watch) 🟢 — POSIX shell scripts that classify background Claude Code and Codex jobs from process, exit-code, and log-tail signals, plus credential-free transport preflight.
 - [aichat](https://github.com/sigoden/aichat) 🟢 — All-in-one CLI chat & agent in Rust.
+- [Kolega Code](https://github.com/kolega-ai/kolega-code) 🆓 🏠 — Source-available terminal coding agent where the model writes its own multi-agent workflows (Gigacode), provider-agnostic with MCP support.
 - [llm](https://github.com/simonw/llm) 🟢 — Simon Willison's CLI for talking to any LLM. Plugin ecosystem.
 - [mods](https://github.com/charmbracelet/mods) 🟢 — Charm's AI for the command line. Pipes-friendly.
 - [shell-gpt (sgpt)](https://github.com/TheR1D/shell_gpt) 🟢 — Shell command generation and chat.
