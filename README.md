@@ -177,6 +177,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 ## DevOps & CI/CD
 
 - [Animus](https://github.com/launchapp-dev/animus-cli) 🟢 — Daemon-driven AI workflows in CI.
+- [d1v](https://github.com/d1vai/d1v-cli) 🟢 — CLI deployment workflow for AI-built web projects with verified previews and explicitly confirmed production releases.
 - [Sweep](https://github.com/sweepai/sweep) 🟢 — AI assistant that opens PRs from issues.
 - [SourceLevel](https://sourcelevel.io/) 💰 — AI metrics and review automation.
 
