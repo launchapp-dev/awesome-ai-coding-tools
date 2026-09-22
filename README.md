@@ -79,6 +79,7 @@ Agents that take a goal and execute multi-step work — planning, editing, testi
 - [Cline](https://github.com/cline/cline) 🟢 — Autonomous VS Code agent (formerly Claude Dev).
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code) 🟢 — Cline fork with multi-mode agent loop.
 - [opencode](https://github.com/sst/opencode) 🟢 — Terminal-native AI coding agent from SST.
+- [molt](https://github.com/solvyxtech/molt) 🟢 🏠 — A coding agent that won't say done on a false claim. Verification on disk. Receipts for accepts and refusals.
 
 ## CLI & Terminal Coding Tools
 
