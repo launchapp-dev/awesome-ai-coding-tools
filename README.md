@@ -108,7 +108,7 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 - [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) 🟢 — Build production agents on Claude.
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) 🟢 — OpenAI's agent framework with handoffs and tracing.
 - [Orkas](https://github.com/Orkas-AI/Orkas) 🟢 🆓 🏠 — Open-source, local-first desktop AI workforce whose Commander coordinates specialist and external coding agents through one chat.
-- [Podium](https://podium.do/) 🟢 🏠 — Coding-agent orchestrator where agents organize shared issues, link task dependencies, and coordinate work through conversation.
+- [Podium](https://podium.do/) 🟢 🏠 — Open-source agent development environment where you ask a coding agent to organize connected tasks and coordinate the team through shared issues.
 - [smolagents](https://github.com/huggingface/smolagents) 🟢 — Hugging Face's minimal code-writing agents.
 
 ## Code Review & PR Automation
