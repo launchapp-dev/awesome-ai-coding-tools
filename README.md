@@ -116,6 +116,8 @@ Tools that review pull requests, suggest improvements, or gate merges.
 
 - [Bubo](https://github.com/mountainowl/bubo) 🟢 🆓 🏠 — Self-hosted AI code reviewer for GitHub and GitLab that posts evidence-backed inline findings or LGTM and learns from repository feedback.
 - [CodeRabbit](https://www.coderabbit.ai/) 💰 🆓 — Line-by-line PR review. Most popular in this category.
+- [DeployReview](https://poe.com/DeployReview) 🆓 — Conversational pre-deploy audit bot: paste code, a diff, or a URL to check security, correctness, links, llms.txt, and HTTPS posture before shipping.
+- [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) 🆓 — Explains code diffs in plain language and generates commit messages for faster reviews.
 - [Qodo (Codium)](https://www.qodo.ai/) 💰 🆓 — PR-Agent + test generation. Open-source PR-Agent available.
 - [Greptile](https://www.greptile.com/) 💰 — Codebase-aware PR review.
 - [Bito](https://bito.ai/) 💰 🆓 — AI code review & chat.
@@ -193,6 +195,7 @@ Frontier and open-weight models with strong code performance.
 
 - [Repomix](https://github.com/yamadashy/repomix) 🟢 — Pack a repo into a single file for LLM context.
 - [files-to-prompt](https://github.com/simonw/files-to-prompt) 🟢 — CLI to bundle files into a prompt.
+- [LLMAuditor](https://poe.com/LLMAuditor) 🆓 — Audits llms.txt and agent-discovery files (structure, links, completeness) for developers and SEOs.
 - [Cursor Rules](https://docs.cursor.com/context/rules) — Cursor's rules format (also adopted by other tools).
 - [CLAUDE.md convention](https://docs.claude.com/en/docs/claude-code/memory) — Project-level instructions for Claude Code.
 
