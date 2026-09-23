@@ -201,6 +201,7 @@ Frontier and open-weight models with strong code performance.
 - [Anthropic's Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) — Patterns for production agents.
 - [SWE-bench](https://www.swebench.com/) — Benchmark for resolving real GitHub issues.
 - [Aider Leaderboards](https://aider.chat/docs/leaderboards/) — Real-world coding benchmark by model.
+- [NextReset](https://nextreset.ai/) — Independent, source-linked public Codex reset history and official AI service incident reference; personal timer stays in the browser.
 
 ## Related Lists
 
