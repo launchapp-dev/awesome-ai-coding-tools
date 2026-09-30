@@ -109,6 +109,7 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) 🟢 — OpenAI's agent framework with handoffs and tracing.
 - [Orkas](https://github.com/Orkas-AI/Orkas) 🟢 🆓 🏠 — Open-source, local-first desktop AI workforce whose Commander coordinates specialist and external coding agents through one chat.
 - [smolagents](https://github.com/huggingface/smolagents) 🟢 — Hugging Face's minimal code-writing agents.
+- [Wayari](https://wayari.com/) 💰 - Local coding-agent orchestrator that runs Claude Code and Codex in isolated worktrees, checks changes, and hands reviewed pull requests to the user.
 
 ## Code Review & PR Automation
 
