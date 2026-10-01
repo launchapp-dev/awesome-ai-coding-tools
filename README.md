@@ -141,6 +141,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 - [Octomind](https://octomind.dev/) 💰 — AI E2E test generation and maintenance.
 - [Meticulous](https://www.meticulous.ai/) 💰 — Auto-generates and maintains UI tests.
 - [Momentic](https://momentic.ai/) 💰 — Low-code AI testing platform.
+- [Sedum](https://github.com/sedum-dev/sedum) 🟢 🆓 — Plain-English browser tests on Playwright that hand failures to your coding agent as a Markdown report.
 
 ## Code Search & Codebase Intelligence
 - [Canopy](https://canopy.8starlabs.com/) 💰 🆓 - Living architecture maps for software teams, with GitHub import, service dependencies, ownership and cost context, and AI-ready exports for coding agents.
