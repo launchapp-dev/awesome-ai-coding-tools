@@ -81,6 +81,7 @@ Agents that take a goal and execute multi-step work — planning, editing, testi
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code) 🟢 — Cline fork with multi-mode agent loop.
 - [opencode](https://github.com/sst/opencode) 🟢 — Terminal-native AI coding agent from SST.
 - [molt](https://github.com/solvyxtech/molt) 🟢 🏠 — A coding agent that won't say done on a false claim. Verification on disk. Receipts for accepts and refusals.
+- [Orbi](https://github.com/orbi-build/orbi) 🟢 🆓 — Takes a labeled GitHub issue to a reviewed PR, merges only what a separate review session approved, and cuts the tagged release.
 
 ## CLI & Terminal Coding Tools
 
