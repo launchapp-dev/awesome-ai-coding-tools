@@ -113,6 +113,7 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 - [AutoGen](https://github.com/microsoft/autogen) 🟢 — Microsoft's conversational multi-agent framework.
 - [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) 🟢 — Build production agents on Claude.
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) 🟢 — OpenAI's agent framework with handoffs and tracing.
+- [Ordewell](https://github.com/ordewell/ordewell) 🟢 🆓 — Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each with its own harness, model and mode, and accepts a task as done only when its completion marker appears in that runner's output.
 - [Orkas](https://github.com/Orkas-AI/Orkas) 🟢 🆓 🏠 — Open-source, local-first desktop AI workforce whose Commander coordinates specialist and external coding agents through one chat.
 - [Podium](https://podium.do/) 🟢 🏠 — Open-source workspace for taking ideas from conversation to coordinated work with coding agents. A shared task system lets them organize the effort while developers follow progress and change direction.
 - [smolagents](https://github.com/huggingface/smolagents) 🟢 — Hugging Face's minimal code-writing agents.
