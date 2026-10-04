@@ -142,6 +142,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 - [Meticulous](https://www.meticulous.ai/) 💰 — Auto-generates and maintains UI tests.
 - [Momentic](https://momentic.ai/) 💰 — Low-code AI testing platform.
 - [Sedum](https://github.com/sedum-dev/sedum) 🟢 🆓 — Plain-English browser tests on Playwright that hand failures to your coding agent as a Markdown report.
+- [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) 🟢 — A thin trusted-host experiment runner for historical Ledger tasks, supplied coding prompts, and workflows.
 
 ## Code Search & Codebase Intelligence
 - [Canopy](https://canopy.8starlabs.com/) 💰 🆓 - Living architecture maps for software teams, with GitHub import, service dependencies, ownership and cost context, and AI-ready exports for coding agents.
