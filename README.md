@@ -51,6 +51,7 @@ Full IDEs and forks built around AI as a first-class feature.
 - [Void](https://voideditor.com/) 🟢 — Open-source Cursor alternative. Bring your own model.
 - [Trae](https://trae.ai/) 💰 — ByteDance's AI IDE with Builder/Chat modes.
 - [PearAI](https://trypear.ai/) 🟢 — Open-source AI editor fork.
+- [Kiro](https://kiro.dev/) 💰 🆓 — AWS's agentic IDE built around spec-driven development: requirements, design, and task files drive the agent.
 
 ## In-Editor Assistants & Completion
 
@@ -64,6 +65,7 @@ Extensions that add AI to existing editors (VS Code, JetBrains, Vim, etc).
 - [Cody](https://sourcegraph.com/cody) 🆓 💰 — Sourcegraph's assistant with codebase-wide context.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) 🆓 💰 — Formerly CodeWhisperer. Tight AWS integration.
 - [JetBrains AI Assistant](https://www.jetbrains.com/ai/) 💰 — Native to all JetBrains IDEs.
+- [Augment Code](https://www.augmentcode.com/) 💰 — Assistant and agent for VS Code and JetBrains focused on large-codebase context.
 
 ## Autonomous Coding Agents
 
@@ -75,12 +77,18 @@ Agents that take a goal and execute multi-step work — planning, editing, testi
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) 🟢 — Google's agent for the terminal.
 - [Harness Desktop](https://github.com/baiyuscc13724-max/deepseek-harness-desktop) 🟢 — Windows client for the official DeepSeek Harness coding workbench with themes, provider and subagent model routing, and an in-app plugin and Skills marketplace.
 - [Devin](https://devin.ai/) 💰 — Cognition's autonomous SWE. Browser, shell, editor in one sandbox.
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) 🟢 🏠 — Open-source autonomous agent platform (formerly OpenDevin).
+- [OpenHands](https://github.com/OpenHands/OpenHands) 🟢 🏠 — Open-source autonomous agent platform (formerly OpenDevin).
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) 🟢 — Princeton's research agent. Strong on SWE-bench.
 - [Cline](https://github.com/cline/cline) 🟢 — Autonomous VS Code agent (formerly Claude Dev).
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code) 🟢 — Cline fork with multi-mode agent loop.
-- [opencode](https://github.com/sst/opencode) 🟢 — Terminal-native AI coding agent from SST.
+- [opencode](https://github.com/anomalyco/opencode) 🟢 — Terminal-native, provider-agnostic AI coding agent.
 - [molt](https://github.com/solvyxtech/molt) 🟢 🏠 — A coding agent that won't say done on a false claim. Verification on disk. Receipts for accepts and refusals.
+- [Amp](https://ampcode.com/) 💰 — Sourcegraph's agentic coding tool for the terminal and editor, with subagents and shared threads.
+- [Factory](https://factory.ai/) 💰 — "Droids" that take tickets through code, review, and CI across the terminal, IDE, and Slack.
+- [Goose](https://github.com/aaif-goose/goose) 🟢 🏠 — Open-source, extensible local agent (originally from Block) that runs on any LLM and plugs into MCP servers.
+- [Jules](https://jules.google/) 🆓 — Google's asynchronous coding agent that works on GitHub repos in a cloud VM and opens PRs.
+- [Kilo Code](https://github.com/Kilo-Org/kilocode) 🟢 — Open-source agent for VS Code and JetBrains with architect/code/debug modes and a large model catalog.
+- [Qwen Code](https://github.com/QwenLM/qwen-code) 🟢 — Terminal coding agent tuned for Qwen3-Coder models, forked from Gemini CLI.
 
 ## CLI & Terminal Coding Tools
 
@@ -97,6 +105,10 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [mods](https://github.com/charmbracelet/mods) 🟢 — Charm's AI for the command line. Pipes-friendly.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) 🟢 — Records a coding-agent run below the harness, then replays it offline against the recorded bytes with no model called.
 - [shell-gpt (sgpt)](https://github.com/TheR1D/shell_gpt) 🟢 — Shell command generation and chat.
+- [Animus TUI](https://github.com/launchapp-dev/animus-tui) 🟢 — k9s-style terminal control plane for Animus: workflows, queue, subjects, logs, and cost.
+- [Crush](https://github.com/charmbracelet/crush) 🟢 — Charm's terminal coding agent with multi-model sessions, LSP context, and MCP support.
+- [Warp](https://www.warp.dev/) 💰 🆓 — Terminal with a built-in coding agent that can run commands, edit files, and review diffs.
+- [worktree-manager](https://github.com/launchapp-dev/worktree-manager) 🟢 — MCP server for running Claude, Codex, and Gemini in parallel across git worktrees and multiple repos, with GitHub PR operations built in.
 
 ## Agent Orchestrators & Multi-Agent
 
@@ -118,6 +130,9 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 - [smolagents](https://github.com/huggingface/smolagents) 🟢 — Hugging Face's minimal code-writing agents.
 - [Wayari](https://wayari.com/) 💰 - Local coding-agent orchestrator that runs Claude Code and Codex in isolated worktrees, checks changes, and hands reviewed pull requests to the user.
 - [YYLO CLI](https://github.com/yylo-dev/yylo) 🟢 — Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and a merge queue owns risk-based review over receipt-backed runs.
+- [HumanLayer](https://github.com/humanlayer/humanlayer) 🟢 — Tooling for running Claude Code sessions in parallel with structured research/plan/implement workflows and human approvals.
+- [Task Master](https://github.com/eyaltoledano/claude-task-master) 🟢 — Turns a PRD into a dependency-aware task list that Cursor, Claude Code, and other agents work through over MCP.
+- [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) 🟢 — Kanban board that runs Claude Code, Codex, and other agents on tasks in isolated worktrees and lets you review their diffs.
 
 ## Code Review & PR Automation
 
@@ -175,7 +190,7 @@ For when you want to own the stack.
 
 - [Continue](https://github.com/continuedev/continue) 🟢 🏠 — Self-hostable IDE assistant.
 - [TabbyML](https://github.com/TabbyML/tabby) 🟢 🏠 — Self-hosted Copilot alternative.
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) 🟢 🏠 — Self-host an autonomous SWE agent.
+- [OpenHands](https://github.com/OpenHands/OpenHands) 🟢 🏠 — Self-host an autonomous SWE agent.
 - [LiteLLM](https://github.com/BerriAI/litellm) 🟢 🏠 — Unified gateway for 100+ LLM providers.
 - [Ollama](https://github.com/ollama/ollama) 🟢 🏠 — Run LLMs locally.
 - [LM Studio](https://lmstudio.ai/) 🆓 🏠 — Local LLM desktop UI.
@@ -190,6 +205,12 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated MCP server directory.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
+- [Animus Document Engine](https://github.com/launchapp-dev/animus-document-engine) 🟢 — MCP server that renders, parses, and converts xlsx/pptx/docx documents from a structured spec.
+- [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) 🟢 — Lets agents drive and inspect a live Chrome: DOM, console, network, and performance traces.
+- [Context7](https://github.com/upstash/context7) 🟢 🆓 — MCP server that feeds agents up-to-date, version-specific library docs.
+- [GitHub MCP Server](https://github.com/github/github-mcp-server) 🟢 — GitHub's official MCP server for repos, issues, PRs, and Actions.
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp) 🟢 — Browser automation for agents through accessibility snapshots instead of screenshots.
+- [Serena](https://github.com/oraios/serena) 🟢 — Coding-agent toolkit that exposes symbol-level retrieval and editing through language servers over MCP.
 
 ## DevOps & CI/CD
 
@@ -213,6 +234,7 @@ Frontier and open-weight models with strong code performance.
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) 🟢 — Local-first Rust CLI/TUI for coding-agent memory with SQLite/FTS recall, forgetting, audit reports, and consolidation.
 - [Cursor Rules](https://docs.cursor.com/context/rules) — Cursor's rules format (also adopted by other tools).
 - [CLAUDE.md convention](https://docs.claude.com/en/docs/claude-code/memory) — Project-level instructions for Claude Code.
+- [Animus Skills](https://github.com/launchapp-dev/animus-skills) 🟢 — Agent skills for setting up and operating Animus: workflows, queues, plugins, and troubleshooting.
 
 ## Learning Resources
 
