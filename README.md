@@ -92,6 +92,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) 🟢 — Local CLI/TUI for replaying and diagnosing Codex CLI and coding-agent sessions.
 - [aichat](https://github.com/sigoden/aichat) 🟢 — All-in-one CLI chat & agent in Rust.
 - [ax](https://github.com/Necmttn/ax) 🟢 — Local agent telemetry and recall.
+- [Cage](https://github.com/vitalik1921/cage) 🟢 — TypeScript contract harness that gates Claude Code or Codex on spec compatibility, invariant-linked tests, and fresh reviews.
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) 🟢 — Small Bash utility for switching Codex CLI and Desktop accounts with isolated `CODEX_HOME` profiles.
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) 🟢 🏠 - Developer-alpha Rust store for coding-agent memory with encrypted, append-only records and scoped MCP access.
 - [Kolega Code](https://github.com/kolega-ai/kolega-code) 🆓 🏠 — Source-available terminal coding agent where the model writes its own multi-agent workflows (Gigacode), provider-agnostic with MCP support.
