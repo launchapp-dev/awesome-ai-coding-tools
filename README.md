@@ -221,6 +221,7 @@ Frontier and open-weight models with strong code performance.
 ## Learning Resources
 
 - [Anthropic's Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) — Patterns for production agents.
+- [STOP conditions for AI agent PRs](https://chopragunji.gumroad.com/l/zpnmdn) 🆓 — One-pager of merge-blocking checks for AI-authored pull requests (secrets, blast radius, mixed concerns, rollback, prompt/tool surfaces).
 - [SWE-bench](https://www.swebench.com/) — Benchmark for resolving real GitHub issues.
 - [Aider Leaderboards](https://aider.chat/docs/leaderboards/) — Real-world coding benchmark by model.
 - [NextReset](https://nextreset.ai/) — Independent, source-linked public Codex reset history and official AI service incident reference; personal timer stays in the browser.
