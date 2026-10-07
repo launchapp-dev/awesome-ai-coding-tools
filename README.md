@@ -82,6 +82,7 @@ Agents that take a goal and execute multi-step work — planning, editing, testi
 - [opencode](https://github.com/sst/opencode) 🟢 — Terminal-native AI coding agent from SST.
 - [molt](https://github.com/solvyxtech/molt) 🟢 🏠 — A coding agent that won't say done on a false claim. Verification on disk. Receipts for accepts and refusals.
 - [Orbi](https://github.com/orbi-build/orbi) 🟢 🆓 — Takes a labeled GitHub issue to a reviewed PR, merges only what a separate review session approved, and cuts the tagged release.
+- [mu](https://github.com/qybaihe/mu) 🟢 — Coding agent built on pi, with a CLI and a desktop app, in which a small judge model answers routine decisions at more than 30 decision points, such as which chunks of long tool output enter the context and whether "done" was verified.
 
 ## CLI & Terminal Coding Tools
 
