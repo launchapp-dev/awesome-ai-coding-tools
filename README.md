@@ -121,6 +121,7 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 - [Orkas](https://github.com/Orkas-AI/Orkas) 🟢 🆓 🏠 — Open-source, local-first desktop AI workforce whose Commander coordinates specialist and external coding agents through one chat.
 - [Podium](https://podium.do/) 🟢 🏠 — Open-source workspace for taking ideas from conversation to coordinated work with coding agents. A shared task system lets them organize the effort while developers follow progress and change direction.
 - [smolagents](https://github.com/huggingface/smolagents) 🟢 — Hugging Face's minimal code-writing agents.
+- [Tale](https://github.com/tale-project/tale) 🟢 🏠 — Self-hosted project workspace that delegates tasks to coding agents such as Claude Code and Codex in persistent sandboxes and supports shared review of their reports and deliverables.
 - [Wayari](https://wayari.com/) 💰 - Local coding-agent orchestrator that runs Claude Code and Codex in isolated worktrees, checks changes, and hands reviewed pull requests to the user.
 - [YYLO CLI](https://github.com/yylo-dev/yylo) 🟢 — Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and a merge queue owns risk-based review over receipt-backed runs.
 
