@@ -222,6 +222,7 @@ Frontier and open-weight models with strong code performance.
 ## Learning Resources
 
 - [Anthropic's Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) — Patterns for production agents.
+- [Fair PR Review Checklist](https://github.com/gustavojstrevisani/fair-pr-review-checklist) 🟢 🆓 — Evidence-first AI-assisted pull request review prompt and ship checklist focused on correctness, tests, data, and delivery risk.
 - [STOP conditions for AI agent PRs](https://chopragunji.gumroad.com/l/zpnmdn) 🆓 — One-pager of merge-blocking checks for AI-authored pull requests (secrets, blast radius, mixed concerns, rollback, prompt/tool surfaces).
 - [SWE-bench](https://www.swebench.com/) — Benchmark for resolving real GitHub issues.
 - [Aider Leaderboards](https://aider.chat/docs/leaderboards/) — Real-world coding benchmark by model.
