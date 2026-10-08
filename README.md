@@ -130,6 +130,7 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 Tools that review pull requests, suggest improvements, or gate merges.
 
 - [Bubo](https://github.com/mountainowl/bubo) 🟢 🆓 🏠 — Self-hosted AI code reviewer for GitHub and GitLab that posts evidence-backed inline findings or LGTM and learns from repository feedback.
+- [CodeOtter](https://codeotter.io/) 🆓 🏠 — Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea that scores PRs, enforces merge gates and posts inline fixes using local GGUF models or your own API key.
 - [CodeRabbit](https://www.coderabbit.ai/) 💰 🆓 — Line-by-line PR review. Most popular in this category.
 - [Qodo (Codium)](https://www.qodo.ai/) 💰 🆓 — PR-Agent + test generation. Open-source PR-Agent available.
 - [Greptile](https://www.greptile.com/) 💰 — Codebase-aware PR review.
