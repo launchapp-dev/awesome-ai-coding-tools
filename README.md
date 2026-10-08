@@ -180,6 +180,7 @@ Prompt-to-app tools — for prototyping or full apps.
 
 For when you want to own the stack.
 
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) 🟢 — Independent Codex Desktop overlay that keeps current quota and reset timing visible, with a local Quota Center for pace and history; not affiliated with OpenAI.
 - [Continue](https://github.com/continuedev/continue) 🟢 🏠 — Self-hostable IDE assistant.
 - [TabbyML](https://github.com/TabbyML/tabby) 🟢 🏠 — Self-hosted Copilot alternative.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) 🟢 🏠 — Self-host an autonomous SWE agent.
