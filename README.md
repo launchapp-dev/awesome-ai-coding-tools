@@ -101,6 +101,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [mods](https://github.com/charmbracelet/mods) 🟢 — Charm's AI for the command line. Pipes-friendly.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) 🟢 — Records a coding-agent run below the harness, then replays it offline against the recorded bytes with no model called.
 - [shell-gpt (sgpt)](https://github.com/TheR1D/shell_gpt) 🟢 — Shell command generation and chat.
+- [unsent](https://github.com/GeiserX/unsent) 🟢 — Go CLI that saves the prompt you are still typing in Claude Code, Codex, pi and agy every 0.4 seconds and recovers it after a crash, a closed window or a reboot.
 
 ## Agent Orchestrators & Multi-Agent
 
