@@ -197,6 +197,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 
 - [MCP Specification](https://modelcontextprotocol.io/) — The spec.
 - [Official MCP servers](https://github.com/modelcontextprotocol/servers) 🟢 — Reference implementations (filesystem, git, GitHub, Slack, etc).
+- [Aident Loadout](https://aident.ai) 🆓 — Remote MCP that connects Codex, Claude Code, Cursor and ChatGPT to 1,000+ apps and 400+ Skills through one setup.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated MCP server directory.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
