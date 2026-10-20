@@ -245,6 +245,7 @@ Frontier and open-weight models with strong code performance.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — MCP servers specifically.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) — Broader LLM landscape.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — LLM application examples.
+- [ianwieds/awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) — AI agents broadly, with a 115-entry coding agents section.
 
 ---
 
