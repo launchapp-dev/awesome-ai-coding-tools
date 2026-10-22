@@ -226,11 +226,10 @@ Frontier and open-weight models with strong code performance.
 - [Repomix](https://github.com/yamadashy/repomix) 🟢 — Pack a repo into a single file for LLM context.
 - [files-to-prompt](https://github.com/simonw/files-to-prompt) 🟢 — CLI to bundle files into a prompt.
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) 🟢 — Local-first Rust CLI/TUI for coding-agent memory with SQLite/FTS recall, forgetting, audit reports, and consolidation.
+- [Loadout](https://loadout-blush.vercel.app) 🆓 — Free + Pro version-pinned AI coding rule packs for Cursor, Copilot, Continue, Aider, Windsurf, and Codex so agents follow project conventions.
 - [LynxPrompt](https://github.com/GeiserX/LynxPrompt) 🟢 🏠 — Self-hosted web app and CLI that turn one set of coding rules into the rule files of 30 tools (AGENTS.md, CLAUDE.md, Cursor rules, Copilot instructions and more), with blueprints a team can share.
 - [Cursor Rules](https://docs.cursor.com/context/rules) — Cursor's rules format (also adopted by other tools).
 - [CLAUDE.md convention](https://docs.claude.com/en/docs/claude-code/memory) — Project-level instructions for Claude Code.
-
-- [Loadout](https://loadout-blush.vercel.app) 🆓 — Free + Pro version-pinned AI coding rule packs for Cursor, Copilot, Continue, Aider, Windsurf, and Codex so agents follow project conventions.
 
 ## Learning Resources
 
