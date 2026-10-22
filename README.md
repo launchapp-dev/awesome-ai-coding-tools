@@ -230,6 +230,8 @@ Frontier and open-weight models with strong code performance.
 - [Cursor Rules](https://docs.cursor.com/context/rules) — Cursor's rules format (also adopted by other tools).
 - [CLAUDE.md convention](https://docs.claude.com/en/docs/claude-code/memory) — Project-level instructions for Claude Code.
 
+- [Loadout](https://loadout-blush.vercel.app) 🆓 — Free + Pro version-pinned AI coding rule packs for Cursor, Copilot, Continue, Aider, Windsurf, and Codex so agents follow project conventions.
+
 ## Learning Resources
 
 - [Anthropic's Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) — Patterns for production agents.
