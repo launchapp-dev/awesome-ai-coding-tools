@@ -194,6 +194,7 @@ For when you want to own the stack.
 - [Ollama](https://github.com/ollama/ollama) 🟢 🏠 — Run LLMs locally.
 - [LM Studio](https://lmstudio.ai/) 🆓 🏠 — Local LLM desktop UI.
 - [Sillage](https://github.com/MarlBurroW/sillage) 🟢 🏠 - Mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine; sessions that outlive the client, full-text search across conversations, an IDE panel and an installable PWA. Single Docker container.
+- [TokLens](https://github.com/MY-Final/TokLens) 🟢 🏠 — Local-first desktop analytics for AI coding clients: it aggregates token usage, models, sessions and trends from 12 clients (Codex, Claude Code, OpenCode and more) into one dashboard, with read-only collection, no telemetry and a local SQLite store.
 
 ## Model Context Protocol (MCP)
 
