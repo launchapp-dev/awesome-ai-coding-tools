@@ -129,6 +129,7 @@ Frameworks for running multiple agents, coordinating workflows, or building your
 - [Wayari](https://wayari.com/) 💰 - Local coding-agent orchestrator that runs Claude Code and Codex in isolated worktrees, checks changes, and hands reviewed pull requests to the user.
 - [YYLO CLI](https://github.com/yylo-dev/yylo) 🟢 — Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and a merge queue owns risk-based review over receipt-backed runs.
 - [Zozo](https://zozohq.com/) 💰 🆓 🏠 — Hosted and local harness for Claude Code, Codex, and OpenCode (via OpenRouter), with GitHub or Jira Cloud + Bitbucket Cloud workflows, dependency-aware tasks, isolated worktrees, human clarification, and pull request delivery, with a free Local Stack, paid hosting, and model access supplied separately.
+- [System One API](https://system-one.dev/en/api) 🟢 🆓 — Multi-provider AI agents API/SDK (`@system-one-ai/core`). Swappable providers. OSS: https://github.com/ziyu/system-one-sdk (stars≈2, early).
 
 ## Code Review & PR Automation
 
