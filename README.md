@@ -207,6 +207,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) 🟢 🆓 — Native macOS app whose built-in MCP server lets coding agents see and drive the Android Emulator and phones: screenshots and UI tree in dp, taps, logcat, dark mode, font scale, RTL.
+- [CallMeMCP](https://github.com/radres/call-me) 🟢 💰 — Hosted MCP server that lets a coding agent ring the developer's iPhone, ask a question aloud and get the spoken answer back as text; the iPhone app needs a paid subscription.
 
 ## DevOps & CI/CD
 
