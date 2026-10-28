@@ -180,6 +180,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 Prompt-to-app tools — for prototyping or full apps.
 
 - [v0](https://v0.app/) ⭐ 💰 🆓 — Vercel's UI generator. React + Tailwind output.
+- [AppWizzy](https://appwizzy.com/) 🆓 💰 — AI web app builder with dedicated cloud development VMs, runtime templates, and Git-based source editing.
 - [Bolt.new](https://bolt.new/) 🆓 💰 — StackBlitz's full-stack web app builder.
 - [Lovable](https://lovable.dev/) 💰 🆓 — End-to-end app generator with deploy.
 - [Replit Agent](https://replit.com/agent) 💰 — In-browser app generation + hosting.
