@@ -249,6 +249,7 @@ Frontier and open-weight models with strong code performance.
 - [SWE-bench](https://www.swebench.com/) — Benchmark for resolving real GitHub issues.
 - [Aider Leaderboards](https://aider.chat/docs/leaderboards/) — Real-world coding benchmark by model.
 - [NextReset](https://nextreset.ai/) — Independent, source-linked public Codex reset history and official AI service incident reference; personal timer stays in the browser.
+- [Vibe-coding security checklist](https://aivibecheck-site.vercel.app/checklist) 🆓 — Ten checks for AI-built apps and coding agents (planted AGENTS.md files, unknown MCP servers in agent configs, per-tool API keys, sandbox network reach, pinned agent versions), each linked to the incident or release it came from.
 
 ## Related Lists
 
