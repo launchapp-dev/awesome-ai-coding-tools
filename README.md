@@ -90,6 +90,7 @@ Agents that take a goal and execute multi-step work — planning, editing, testi
 Lower-level CLI tooling that pairs with agents or runs solo.
 
 - [Animus (ao-cli)](https://github.com/launchapp-dev/animus-cli) 🟢 ⭐ — Autonomous agent orchestrator. YAML workflows, daemon scheduling, multi-model routing across Claude/Gemini/GPT.
+- [Agent Role Contracts](https://github.com/suirindo/agent-role-contracts) 🟢 — Offline Node.js CLI that checks declared coding-agent task scopes, review separation, and handoffs before dispatch without granting execution authority or enforcing runtime permissions.
 - [agent-watch](https://github.com/soul-sol/agent-watch) 🟢 — POSIX shell scripts that classify background Claude Code and Codex jobs from process, exit-code, and log-tail signals, plus credential-free transport preflight.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) 🟢 — Local CLI/TUI for replaying and diagnosing Codex CLI and coding-agent sessions.
 - [aichat](https://github.com/sigoden/aichat) 🟢 — All-in-one CLI chat & agent in Rust.
