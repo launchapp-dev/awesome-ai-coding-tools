@@ -97,6 +97,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [ax](https://github.com/Necmttn/ax) 🟢 — Local agent telemetry and recall.
 - [Cage](https://github.com/vitalik1921/cage) 🟢 — TypeScript contract harness that gates Claude Code or Codex on spec compatibility, invariant-linked tests, and fresh reviews.
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) 🟢 — Small Bash utility for switching Codex CLI and Desktop accounts with isolated `CODEX_HOME` profiles.
+- [Flisk](https://github.com/flisk-sh/flisk) 🟢 🆓 — Local environment generator for coding agents: one command takes an empty folder to a running stack (Docker Compose, Tilt, Traefik) so models stop hand-editing Dockerfiles and Tiltfiles.
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) 🟢 🏠 - Developer-alpha Rust store for coding-agent memory with encrypted, append-only records and scoped MCP access.
 - [Kolega Code](https://github.com/kolega-ai/kolega-code) 🆓 🏠 — Source-available terminal coding agent where the model writes its own multi-agent workflows (Gigacode), provider-agnostic with MCP support.
 - [llm](https://github.com/simonw/llm) 🟢 — Simon Willison's CLI for talking to any LLM. Plugin ecosystem.
