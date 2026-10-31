@@ -104,6 +104,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) 🟢 — Records a coding-agent run below the harness, then replays it offline against the recorded bytes with no model called.
 - [shell-gpt (sgpt)](https://github.com/TheR1D/shell_gpt) 🟢 — Shell command generation and chat.
 - [Talavine Code](https://github.com/scrossen/talavine-code) 🟢 🏠 — C# desktop and CLI coding harness with API models, coding CLI backends, local Ollama models, and cross-model review.
+- [TokenTracker](https://www.tokentracker.cc/) 🟢 🆓 — Local-first AI token usage & cost tracker (CLI + dashboard + native apps) for Claude Code, Codex, Cursor, Gemini, Copilot, and more. Privacy-first: token counts only, never prompts. `npx tokentracker-cli` · [GitHub](https://github.com/xiufengsun/TokenTracker)
 - [unsent](https://github.com/GeiserX/unsent) 🟢 — Go CLI that saves the prompt you are still typing in Claude Code, Codex, pi and agy every 0.4 seconds and recovers it after a crash, a closed window or a reboot.
 
 ## Agent Orchestrators & Multi-Agent
