@@ -213,6 +213,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
 - [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) 🟢 🆓 💰 — MCP server that lets coding agents search the web and scrape docs pages to Markdown, with a hosted endpoint that works without an API key.
+- [npmscan](https://github.com/salemalem/npmscan-mcp-plugin) 🆓 — Hosted MCP server and agent plugin (Claude Code, Codex, Gemini CLI) that lets coding agents check npm packages for malware, known vulnerabilities, maintainer changes and install scripts before installing them, with no API key.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) 🟢 🆓 — Native macOS app whose built-in MCP server lets coding agents see and drive the Android Emulator and phones: screenshots and UI tree in dp, taps, logcat, dark mode, font scale, RTL.
 
 ## DevOps & CI/CD
