@@ -205,15 +205,16 @@ For when you want to own the stack.
 
 Anthropic's open standard for connecting AI tools to data sources and capabilities.
 
-- [MCP Specification](https://modelcontextprotocol.io/) — The spec.
-- [Official MCP servers](https://github.com/modelcontextprotocol/servers) 🟢 — Reference implementations (filesystem, git, GitHub, Slack, etc).
 - [Aident Loadout](https://aident.ai) 🆓 — Remote MCP that connects Codex, Claude Code, Cursor and ChatGPT to 1,000+ apps and 400+ Skills through one setup.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated MCP server directory.
 - [CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp) 🆓 💰 — Hosted MCP server that lets coding agents screenshot a web page as an image, PDF or scrolling video, on phone, tablet or desktop presets.
-- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
 - [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) 🟢 🆓 💰 — MCP server that lets coding agents search the web and scrape docs pages to Markdown, with a hosted endpoint that works without an API key.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) 🟢 🆓 — Local macOS CLI and stdio MCP server for coding agents to diagnose failed API connections and check network conditions before downloads.
+- [MCP Specification](https://modelcontextprotocol.io/) — The spec.
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
 - [npmscan](https://github.com/salemalem/npmscan-mcp-plugin) 🆓 — Hosted MCP server and agent plugin (Claude Code, Codex, Gemini CLI) that lets coding agents check npm packages for malware, known vulnerabilities, maintainer changes and install scripts before installing them, with no API key.
+- [Official MCP servers](https://github.com/modelcontextprotocol/servers) 🟢 — Reference implementations (filesystem, git, GitHub, Slack, etc).
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) 🟢 🆓 — Native macOS app whose built-in MCP server lets coding agents see and drive the Android Emulator and phones: screenshots and UI tree in dp, taps, logcat, dark mode, font scale, RTL.
 
 ## DevOps & CI/CD
