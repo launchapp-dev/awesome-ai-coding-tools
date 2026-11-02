@@ -186,6 +186,7 @@ Prompt-to-app tools — for prototyping or full apps.
 - [Lovable](https://lovable.dev/) 💰 🆓 — End-to-end app generator with deploy.
 - [Replit Agent](https://replit.com/agent) 💰 — In-browser app generation + hosting.
 - [Tempo](https://www.tempo.new/) 💰 — Visual + AI React app builder.
+- [WeInc](https://we.inc/) 💰 🆓 — Prompt-to-site builder for websites, stores and web apps; edit by chat or point-and-click, publish to your own domain, white-label for agencies.
 - [a0.dev](https://a0.dev/) — React Native app generator.
 
 ## Open-Source & Self-Hosted
