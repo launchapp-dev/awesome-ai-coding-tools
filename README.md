@@ -103,6 +103,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [llm](https://github.com/simonw/llm) 🟢 — Simon Willison's CLI for talking to any LLM. Plugin ecosystem.
 - [mods](https://github.com/charmbracelet/mods) 🟢 — Charm's AI for the command line. Pipes-friendly.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) 🟢 — Records a coding-agent run below the harness, then replays it offline against the recorded bytes with no model called.
+- [Ponder](https://github.com/Quinnod345/ponder) 🟢 - Zero-dependency Node.js CLI and Agent Skill that gates coding-agent plans and diffs on a 7-step multi-role deliberation state machine, 1.00 unit coverage, convergence checks, and an append-only JSONL review ledger.
 - [shell-gpt (sgpt)](https://github.com/TheR1D/shell_gpt) 🟢 — Shell command generation and chat.
 - [Talavine Code](https://github.com/scrossen/talavine-code) 🟢 🏠 — C# desktop and CLI coding harness with API models, coding CLI backends, local Ollama models, and cross-model review.
 - [unsent](https://github.com/GeiserX/unsent) 🟢 — Go CLI that saves the prompt you are still typing in Claude Code, Codex, pi and agy every 0.4 seconds and recovers it after a crash, a closed window or a reboot.
