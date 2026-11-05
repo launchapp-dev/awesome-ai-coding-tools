@@ -213,6 +213,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 
 - [Aident Loadout](https://aident.ai) 🆓 — Remote MCP that connects Codex, Claude Code, Cursor and ChatGPT to 1,000+ apps and 400+ Skills through one setup.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated MCP server directory.
+- [CallMeMCP](https://github.com/radres/call-me) 🟢 💰 — Hosted MCP server that lets a coding agent ring the developer's iPhone, ask a question aloud and get the spoken answer back as text; the iPhone app needs a paid subscription.
 - [CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp) 🆓 💰 — Hosted MCP server that lets coding agents screenshot a web page as an image, PDF or scrolling video, on phone, tablet or desktop presets.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
 - [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) 🟢 🆓 💰 — MCP server that lets coding agents search the web and scrape docs pages to Markdown, with a hosted endpoint that works without an API key.
