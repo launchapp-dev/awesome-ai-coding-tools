@@ -84,6 +84,7 @@ Agents that take a goal and execute multi-step work — planning, editing, testi
 - [molt](https://github.com/solvyxtech/molt) 🟢 🏠 — A coding agent that won't say done on a false claim. Verification on disk. Receipts for accepts and refusals.
 - [Orbi](https://github.com/orbi-build/orbi) 🟢 🆓 — Takes a labeled GitHub issue to a reviewed PR, merges only what a separate review session approved, and cuts the tagged release.
 - [mu](https://github.com/qybaihe/mu) 🟢 — Coding agent built on pi, with a CLI and a desktop app, in which a small judge model answers routine decisions at more than 30 decision points, such as which chunks of long tool output enter the context and whether "done" was verified.
+- [AI CodeOps](https://aicodeops.dev/) 🆓 — Browser-based agents plan, build, review and test changes on GitHub, GitLab, Bitbucket, Gitea or Forgejo, and a pull request opens only after tests pass, the AI review is clear and a human approves.
 
 ## CLI & Terminal Coding Tools
 
