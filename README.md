@@ -147,6 +147,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 
 - [Bubo](https://github.com/mountainowl/bubo) 🟢 🆓 🏠 — Self-hosted AI code reviewer for GitHub and GitLab that posts evidence-backed inline findings or LGTM and learns from repository feedback.
 - [CodeOtter](https://codeotter.io/) 🟢 🆓 🏠 — Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea that scores PRs, enforces merge gates and posts inline fixes using local GGUF models or your own API key.
+- [code-review-gate-skill](https://github.com/kyy-logs/code-review-gate-skill) 🟢 🆓 🏠 — Static-first code review skill for Claude Code and Codex with four evidence probes and a JSON-derived merge gate.
 - [CodeRabbit](https://www.coderabbit.ai/) 💰 🆓 — Line-by-line PR review. Most popular in this category.
 - [Qodo (Codium)](https://www.qodo.ai/) 💰 🆓 — PR-Agent + test generation. Open-source PR-Agent available.
 - [Greptile](https://www.greptile.com/) 💰 — Codebase-aware PR review.
