@@ -220,6 +220,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 - [CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp) 🆓 💰 — Hosted MCP server that lets coding agents screenshot a web page as an image, PDF or scrolling video, on phone, tablet or desktop presets.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
 - [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) 🟢 🆓 💰 — MCP server that lets coding agents search the web and scrape docs pages to Markdown, with a hosted endpoint that works without an API key.
+- [Imagera MCP](https://imagera.ai/mcp) 💰 — Hosted MCP server (OAuth) that lets coding agents generate and edit images, video, voice and music for the app they are building, with a cost estimate before each run.
 - [Kilobat CLI](https://github.com/seifip/kilobat-cli) 🟢 🆓 — Local macOS CLI and stdio MCP server for coding agents to diagnose failed API connections and check network conditions before downloads.
 - [MCP Specification](https://modelcontextprotocol.io/) — The spec.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
