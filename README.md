@@ -152,6 +152,7 @@ Tools that review pull requests, suggest improvements, or gate merges.
 - [Greptile](https://www.greptile.com/) 💰 — Codebase-aware PR review.
 - [HeyDeer](https://heydeer.ai/) 💰 🆓 — AI code review for GitHub pull requests that verifies findings before posting them and creates separate fix PRs from selected findings.
 - [heygrc](https://heygrc.com) - GitHub App for compliance-focused PR review (ISO 27001, SOC 2, GDPR, EU AI Act, and more). Cites the control clause and says what to fix. Public repositories always free. By ISMS Copilot.
+- [IonWarp](https://ionwarp.com/) 💰 🆓 — AI code review for GitHub pull requests that adds specialist reviewers (security, docs, logs and errors) per diff and publishes an open benchmark of review apps and models.
 - [Bito](https://bito.ai/) 💰 🆓 — AI code review & chat.
 - [Ellipsis](https://www.ellipsis.dev/) 💰 — Async AI reviewer that fixes its own comments.
 - [Diamond by Graphite](https://graphite.dev/diamond) 💰 — PR review built into Graphite's stack.
