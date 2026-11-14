@@ -259,6 +259,7 @@ Frontier and open-weight models with strong code performance.
 
 ## Learning Resources
 
+- [AIHOT Coding Model Leaderboard](https://aihot.news/leaderboard/category/coding) 🆓 — Chinese-language comparison of coding models using published third-party benchmark results for software engineering and terminal tasks.
 - [Anthropic's Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) — Patterns for production agents.
 - [Fair PR Review Checklist](https://github.com/gustavojstrevisani/fair-pr-review-checklist) 🟢 🆓 — Evidence-first AI-assisted pull request review prompt and ship checklist focused on correctness, tests, data, and delivery risk.
 - [STOP conditions for AI agent PRs](https://chopragunji.gumroad.com/l/zpnmdn) 🆓 — One-pager of merge-blocking checks for AI-authored pull requests (secrets, blast radius, mixed concerns, rollback, prompt/tool surfaces).
