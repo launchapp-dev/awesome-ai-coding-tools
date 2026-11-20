@@ -251,6 +251,7 @@ Frontier and open-weight models with strong code performance.
 
 ## Prompt & Context Engineering
 
+- [Apparent](https://app.tryapparent.com/) 🟢 🆓 — A macOS and Linux screen recorder that turns a narrated visual bug report into annotated frames, a timed transcript, and a click timeline for coding agents.
 - [CLAUDE.md convention](https://docs.claude.com/en/docs/claude-code/memory) — Project-level instructions for Claude Code.
 - [Clogmeter](https://clogmeter.vercel.app) 🆓 💰 — Browser-only AGENTS.md / CLAUDE.md / Cursor rules / skills inspector: token weight, duplicate and conflict detection, trimmed export.
 - [coding-agent-prompts](https://github.com/Ai-VibeCheck/coding-agent-prompts) 🟢 🆓 — CC0 set of 10 copy-paste prompts for Claude Code, Codex and Cursor (secret hunt, two-pass security review, sandbox reach map, agent-config audit, PR split) that each make the agent report findings before editing any file.
