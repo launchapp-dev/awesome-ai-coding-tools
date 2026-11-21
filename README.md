@@ -100,6 +100,7 @@ Lower-level CLI tooling that pairs with agents or runs solo.
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) 🟢 — Small Bash utility for switching Codex CLI and Desktop accounts with isolated `CODEX_HOME` profiles.
 - [dev-diagnosis](https://github.com/WJDdidi-1/dev-doctor) 🟢 — Zero-dependency Node.js CLI that scores a repo 0–100 for AI-agent context hygiene and reports the token cost of files agents shouldn't read, with the .aiignore fixes to exclude them.
 - [Flisk](https://github.com/flisk-sh/flisk) 🟢 🆓 — Local environment CLI for coding agents that generates Dockerfiles, Tiltfiles, and Traefik routing from service manifests and runs stacks with Docker and Tilt.
+- [Folkbench Switch](https://folkbench.com/en/switch?utm_source=github&utm_medium=awesome&utm_campaign=launchapp-dev-awesome-ai-coding-tools) 🟢 🆓 — Desktop app (macOS/Windows, beta) that writes a saved API endpoint and key into Claude Code, Codex and Gemini CLI configs after showing a diff, and parks Codex's official login credentials until you switch back.
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) 🟢 🏠 - Developer-alpha Rust store for coding-agent memory with encrypted, append-only records and scoped MCP access.
 - [Kolega Code](https://github.com/kolega-ai/kolega-code) 🆓 🏠 — Source-available terminal coding agent where the model writes its own multi-agent workflows (Gigacode), provider-agnostic with MCP support.
 - [llm](https://github.com/simonw/llm) 🟢 — Simon Willison's CLI for talking to any LLM. Plugin ecosystem.
