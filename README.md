@@ -264,6 +264,7 @@ Frontier and open-weight models with strong code performance.
 - [Loadout](https://loadout-blush.vercel.app) 🆓 — Free + Pro version-pinned AI coding rule packs for Cursor, Copilot, Continue, Aider, Windsurf, and Codex so agents follow project conventions.
 - [LynxPrompt](https://github.com/GeiserX/LynxPrompt) 🟢 🏠 — Self-hosted web app and CLI that turn one set of coding rules into the rule files of 30 tools (AGENTS.md, CLAUDE.md, Cursor rules, Copilot instructions and more), with blueprints a team can share.
 - [Repomix](https://github.com/yamadashy/repomix) 🟢 — Pack a repo into a single file for LLM context.
+- [Sharpen](https://github.com/melthond/sharpen) 🟢 🆓 — Claude Code plugin that rewrites each prompt into a specific one using the conversation, the codebase and the installed skills, agents and MCP tools, and shows it for approval before any work starts.
 - [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) 🟢 — Public-beta DeepSeek Harness text-memory plugin preserving source-linked project decisions, global/project scope and correction history through lexical recall.
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) 🟢 — Local-first Rust CLI/TUI for coding-agent memory with SQLite/FTS recall, forgetting, audit reports, and consolidation.
 
