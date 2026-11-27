@@ -236,7 +236,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 - [npmscan](https://github.com/salemalem/npmscan-mcp-plugin) 🆓 — Hosted MCP server and agent plugin (Claude Code, Codex, Gemini CLI) that lets coding agents check npm packages for malware, known vulnerabilities, maintainer changes and install scripts before installing them, with no API key.
 - [Official MCP servers](https://github.com/modelcontextprotocol/servers) 🟢 — Reference implementations (filesystem, git, GitHub, Slack, etc).
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) 🟢 🆓 — Native macOS app whose built-in MCP server lets coding agents see and drive the Android Emulator and phones: screenshots and UI tree in dp, taps, logcat, dark mode, font scale, RTL.
-- [Sandscale](https://sandscale.dev/sandboxes/mcp) 💰 🆓 — Remote MCP server (Streamable HTTP, OAuth 2.1) that creates a Firecracker microVM sandbox per task, runs commands and moves files in it, with allow/ask/deny rules per tool and an audit log.
+- [Sandscale](https://sandscale.dev/sandboxes/mcp) 💰 🆓 — Remote MCP server (Streamable HTTP, OAuth 2.1) that creates a Firecracker microVM sandbox per task, runs commands and moves files in it, with every call recorded in an audit log.
 
 ## DevOps & CI/CD
 
