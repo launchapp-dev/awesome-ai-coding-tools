@@ -256,6 +256,7 @@ Frontier and open-weight models with strong code performance.
 
 ## Prompt & Context Engineering
 
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) 🟢 🆓 — Open source skill kit for Claude Code, Cursor and Codex that plans work before coding and verifies it with tests and formal checks before calling it done.
 - [Apparent](https://app.tryapparent.com/) 🟢 🆓 — A macOS and Linux screen recorder that turns a narrated visual bug report into annotated frames, a timed transcript, and a click timeline for coding agents.
 - [CLAUDE.md convention](https://docs.claude.com/en/docs/claude-code/memory) — Project-level instructions for Claude Code.
 - [Clogmeter](https://clogmeter.vercel.app) 🆓 💰 — Browser-only AGENTS.md / CLAUDE.md / Cursor rules / skills inspector: token weight, duplicate and conflict detection, trimmed export.
